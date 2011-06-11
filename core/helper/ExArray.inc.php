@@ -1,4 +1,4 @@
-<?php if(!defined('EX_ABS_PATH')) exit('Access denied!');
+<?php if(!defined('EX_ABS_PATH')) exit('Access deniede!!!!');
  /**
  * Copyright (C) 2011  Explozive.com
  * 

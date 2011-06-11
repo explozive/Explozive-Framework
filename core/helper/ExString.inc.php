@@ -7,7 +7,7 @@ class ExString
 	/**
 	* 
 	*
-	* Cuts a string to the length of $length and replaces the last characters
+	* 
 	* with the ending if the text is longer than length.
 	*
 	* @param string  $text String to truncate.
